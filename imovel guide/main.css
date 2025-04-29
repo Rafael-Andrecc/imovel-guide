@@ -1,0 +1,70 @@
+#caixa_texto{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(197, 197, 252);
+    margin-top: 1%;
+    justify-content: right;
+    justify-items: center;
+    align-content: center;
+    justify-self: right;
+    margin-right: 1%;
+    border: solid;
+    border-radius: 50px;
+  
+    }
+
+.caixa_texto{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(197, 197, 252);
+    margin-top: 1%;
+    justify-content: right;
+    justify-items: center;
+    align-content: center;
+    justify-self: right;
+    margin-right: 1%;
+    border: solid;
+    border-radius: 50px;
+  
+    }
+
+#senha{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+#senha:hover{
+    background-color: whitesmoke ; 
+    border: none;
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition: 1s;
+}
+#senha:focus{
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition: 1s;
+}
+#email{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    font-family: fantasy;
+}
+
+#email:hover{
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition: 1s;
+}
+#email:focus{
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition: 1s;}
